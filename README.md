@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋 My name is Kate</h1>
 
 <h2 align="center">I'm a Full Stack Software Engineer</h2>
-<h4 align="center">I build websites and web-based applications.</h4>
 
 <div align="center">
 <a href="https://www.twitter.com/kateivesdev" target="_blank" rel="noreferrer"><img
@@ -24,7 +23,8 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
 * 🚀  I'm currently working on my twist on the NYTimes Spelling Bee game
 * 🧠  I'm learning React with plans to learn Flutter next
 * 🤝  I'm open to collaborating on projects related to environmental justice, climate change and reproductive rights
-* ⚡  I organize a [Google Developer Group tech meetup in Baton Rouge](https://gdg.community.dev/gdg-baton-rouge/)
+* ⚡   I organize a [Google Developer Group tech meetup in Baton Rouge](https://gdg.community.dev/gdg-baton-rouge/)
+* 🤺   I'm slightly obsessed with Codewars <a href="https://www.codewars.com/users/k8ives" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/k8ives/badges/micro"/></a>
 
 <h3 align="center">Projects</h3>
 
