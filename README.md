@@ -30,9 +30,25 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
+      <p>
+				<a href="https://github.com/KateIvesDev/" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+				</a>  
+				<a href="https://hudson-salon.netlify.app/" target="_blank">
+						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1c1917"/>
+				</a>	
+			</p>
     </td>
-    <td>
+    <td width="50%">
+        <p>
+				<a href="https://github.com/KateIvesDev/" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+				</a>  
+				<a href="https://pho-kitchen.netlify.app/" target="_blank">
+						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1c1917"/>
+				</a>	
+			</p>
     </td>
   </tr>
 </table>
