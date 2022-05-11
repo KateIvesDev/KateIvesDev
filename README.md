@@ -14,7 +14,7 @@ src="https://img.shields.io/github/followers/kateivesdev?logo=github&style=for-t
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-<p>   My professional career has taken me down some different paths - first as an attorney, then working for a non-profit, and most recently managing operations for a small business. In all of these roles, I've experienced a good bit of outdated technology with frustrating end-user experiences. I decided to pursue software engineering as a career because I wanted to learn how to use technology to build real world solutions to help businesses and organizations better serve their clients and communities. I am looking to join a diverse team that embraces remote work.
+<p>   My professional career has taken me down some different paths - first as an attorney, then working for a non-profit, and most recently managing operations for a small business. In all of these roles, I had experienced a lot of outdated software with frustrating end-user experiences. I decided to pursue software engineering as a career because I wanted to learn how to use technology to build real world solutions to help businesses and organizations better serve their clients and communities. I am looking to join a diverse team that embraces remote work.
 </p>
 
 * 🌍  I'm based in Baton Rouge but have roots in New York City 
@@ -31,24 +31,26 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
 <table>
   <tr>
     <td width="50%">
-      <p>
-				<a href="https://github.com/KateIvesDev/" target="_blank">
-						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-				</a>  
-				<a href="https://hudson-salon.netlify.app/" target="_blank">
-						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1c1917"/>
-				</a>	
-			</p>
+     	 <p>
+	<a href="https://github.com/KateIvesDev/" target="_blank">
+			<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+	</a>  
+	<a href="https://hudson-salon.netlify.app/" target="_blank">
+			<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1c1917"/>
+	</a>	
+	</p>
     </td>
     <td width="50%">
+	<div>![salon-demo](https://user-images.githubusercontent.com/22897756/167861471-b7342707-b001-4a67-918a-0a761c6304ea.png)</div>
         <p>
-				<a href="https://github.com/KateIvesDev/" target="_blank">
-						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-				</a>  
-				<a href="https://pho-kitchen.netlify.app/" target="_blank">
-						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1c1917"/>
-				</a>	
-			</p>
+
+		<a href="https://github.com/KateIvesDev/" target="_blank">
+				<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+		</a>  
+		<a href="https://pho-kitchen.netlify.app/" target="_blank">
+				<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1c1917"/>
+		</a>	
+	</p>
     </td>
   </tr>
 </table>
@@ -83,7 +85,8 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
       </div>
     </td>
   </tr>
-</table>
+</table>!
+
 
 
 
