@@ -31,7 +31,8 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
 <table>
   <tr>
     <td width="50%">
-     	 <p>
+	 <div><img src="https://user-images.githubusercontent.com/22897756/167861471-b7342707-b001-4a67-918a-0a761c6304ea.png" /> </div>
+     	 <p align="center">
 	<a href="https://github.com/KateIvesDev/" target="_blank">
 			<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 	</a>  
@@ -41,9 +42,8 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
 	</p>
     </td>
     <td width="50%">
-	<div>![salon-demo](https://user-images.githubusercontent.com/22897756/167861471-b7342707-b001-4a67-918a-0a761c6304ea.png)</div>
-        <p>
-
+	<div><img src="https://user-images.githubusercontent.com/22897756/167862729-19818a58-9e04-4cdb-8b39-23b199533ffb.jpg") /></div>
+        <p align="center">
 		<a href="https://github.com/KateIvesDev/" target="_blank">
 				<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 		</a>  
