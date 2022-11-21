@@ -29,6 +29,30 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
 <h3 align="center">Projects</h3>
 
 <table>
+   <tr>
+    <td width="50%">
+	 <div><img src="https://github.com/KateIvesDev/quizzical/blob/53ab83c0d8ecad8d2f160f17691ea259a33dc8b9/public/Quizzical.png?raw=true" /> </div>
+     	 <p align="center">
+	<a href="https://github.com/KateIvesDev/quizzical" target="_blank">
+			<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+	</a>  
+	<a href="https://kateivesdev.github.io/quizzical/" target="_blank">
+			<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1c1917"/>
+	</a>	
+	</p>
+    </td>
+    <td width="50%">
+	<div><img src="https://github.com/KateIvesDev/DevFest-Template/blob/main/src/assets/DevFest_SaveTheDate_01.gif?raw=true") /></div>
+        <p align="center">
+		<a href="https://github.com/KateIvesDev/" target="_blank">
+				<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+		</a>  
+		<a href="https://www.devfestbr.com/" target="_blank">
+				<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1c1917"/>
+		</a>	
+	</p>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
 	 <div><img src="https://user-images.githubusercontent.com/22897756/167861471-b7342707-b001-4a67-918a-0a761c6304ea.png" /> </div>
