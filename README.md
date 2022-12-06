@@ -14,17 +14,11 @@ src="https://img.shields.io/github/followers/kateivesdev?logo=github&style=for-t
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-<p>   My professional career has taken me down some different paths - first as an attorney, then working for a non-profit, and most recently managing operations for a small business. In all of these roles, I had experienced a lot of outdated software with frustrating end-user experiences. I decided to pursue software engineering as a career because I wanted to learn how to use technology to build real world solutions to help businesses and organizations better serve their clients and communities. I am looking to join a diverse team that embraces remote work.
-</p>
 
 * 🌍  I'm based in Baton Rouge but have roots in New York City 
 * 🖥️  Check out my portfolio at [www.kateives.com](https://www.kateives.com)
-* ✉️   You can contact me at [kateivesdev@pm.me](mailto:kateivesdev@pm.me)
-* 🚀  I'm currently working on my twist on the NYTimes Spelling Bee game
-* 🧠  I'm learning React with plans to learn Flutter next
-* 🤝  I'm open to collaborating on projects related to environmental justice, climate change and reproductive rights
 * ⚡   I organize a [Google Developer Group tech meetup in Baton Rouge](https://gdg.community.dev/gdg-baton-rouge/)
-* 🤺   I'm slightly obsessed with Codewars <a href="https://www.codewars.com/users/k8ives" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/k8ives/badges/micro"/></a>
+* 🤺  I'm slightly obsessed with Codewars <a href="https://www.codewars.com/users/k8ives" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/k8ives/badges/micro"/></a>
 
 <h3 align="center">Projects</h3>
 
