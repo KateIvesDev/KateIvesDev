@@ -93,13 +93,13 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
   <tr>
     <td width="50%">
       <div align="center">
-      <a href="http://www.github.com/kateivesdev"><img src="https://github-readme-stats.vercel.app/api?username=kateivesdev&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="kateivesdev's GitHub stats" /></a>
+      <a href="http://www.github.com/kateivesdev"><img src="https://github-readme-stats-k8ives.vercel.app/api?username=kateivesdev&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="kateivesdev's GitHub stats" /></a>
       <a href="http://www.github.com/kateivesdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kateivesdev&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
       </div>
     </td>
     <td width="50%">
       <div align="center"
-      <a href="https://github.com/kateivesdev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kateivesdev&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+      <a href="https://github.com/kateivesdev"><img src="https://github-readme-stats-k8ives.vercel.app/api/top-langs/?username=kateivesdev&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
       </div>
     </td>
   </tr>
