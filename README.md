@@ -25,7 +25,7 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
 <table>
    <tr>
     <td width="50%">
-	 <div><img src="https://github.com/KateIvesDev/quizzical/blob/53ab83c0d8ecad8d2f160f17691ea259a33dc8b9/public/Quizzical.png?raw=true" /> </div>
+	 <div><img src="https://github.com/KateIvesDev/quizzical/blob/4249306228c9ee98e6033258f78553f931ed9b24/Quizzical2.gif" /> </div>
      	 <p align="center">
 	<a href="https://github.com/KateIvesDev/quizzical" target="_blank">
 			<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
@@ -38,10 +38,34 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
     <td width="50%">
 	<div><img src="https://github.com/KateIvesDev/DevFest-Template/blob/main/src/assets/DevFest_SaveTheDate_01.gif?raw=true") /></div>
         <p align="center">
-		<a href="https://github.com/KateIvesDev/" target="_blank">
+		<a href="https://github.com/KateIvesDev/DevFest-Template" target="_blank">
 				<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 		</a>  
 		<a href="https://www.devfestbr.com/" target="_blank">
+				<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1c1917"/>
+		</a>	
+	</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+	 <div><img src="https://github.com/KateIvesDev/Space-Tourism/blob/29f622f3e08934d5c02fe168050655a10fe5f9ac/space.gif" /> </div>
+     	 <p align="center">
+	<a href="https://github.com/KateIvesDev/Space-Tourism" target="_blank">
+			<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+	</a>  
+	<a href="https://cerulean-tarsier-4703cc.netlify.app/" target="_blank">
+			<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1c1917"/>
+	</a>	
+	</p>
+    </td>
+    <td width="50%">
+	<div><img src="https://github.com/KateIvesDev/CalculatorApp/blob/de9aa1e667882fc63b9dfffa6c402a5648680dec/calculator.gif)" /></div>
+        <p align="center">
+		<a href="https://github.com/KateIvesDev/CalculatorApp" target="_blank">
+				<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+		</a>  
+		<a href="https://kateivesdev.github.io/CalculatorApp/" target="_blank">
 				<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=1c1917"/>
 		</a>	
 	</p>
