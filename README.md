@@ -60,7 +60,7 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
 	</p>
     </td>
     <td width="50%">
-	<div><img src="https://github.com/KateIvesDev/CalculatorApp/blob/de9aa1e667882fc63b9dfffa6c402a5648680dec/calculator.gif)" /></div>
+	<div><img src="https://github.com/KateIvesDev/CalculatorApp/blob/de9aa1e667882fc63b9dfffa6c402a5648680dec/calculator.gif" /></div>
         <p align="center">
 		<a href="https://github.com/KateIvesDev/CalculatorApp" target="_blank">
 				<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
