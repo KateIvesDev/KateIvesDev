@@ -1,6 +1,3 @@
-
-![KATE IVES full stack software engineer](https://user-images.githubusercontent.com/22897756/167729187-70ff1be0-72da-4a8f-8bbc-dc05f4662333.png)
-
 <h1 align="center">Hi 👋 My name is Kate</h1>
 
 <h2 align="center">I'm a Full Stack Software Engineer</h2>
@@ -111,23 +108,6 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
-<h3 align="center">My GitHub Stats</h3>
-
-<table>
-  <tr>
-    <td width="50%">
-      <div align="center">
-      <a href="http://www.github.com/kateivesdev"><img src="https://github-readme-stats-k8ives.vercel.app/api?username=kateivesdev&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="kateivesdev's GitHub stats" /></a>
-      <a href="http://www.github.com/kateivesdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kateivesdev&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center"
-      <a href="https://github.com/kateivesdev"><img src="https://github-readme-stats-k8ives.vercel.app/api/top-langs/?username=kateivesdev&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-      </div>
-    </td>
-  </tr>
-</table>!
 
 
 
